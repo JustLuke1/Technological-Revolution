@@ -1,4 +1,4 @@
-package justluke.technological_revolution;
+package com.justluke.technological_revolution;
 
 import java.util.List;
 import java.util.Set;
